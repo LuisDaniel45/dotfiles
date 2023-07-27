@@ -1,7 +1,7 @@
 #!/bin/sh 
 
 mv .zshrc ~/
-mv .xinit ~/
+mv .xinitrc ~/
 mv  nvim ~/.config/ 
 mv  nvim.local ~/.local/share/nvim 
 mv  wallpaper ~/.config/ 
